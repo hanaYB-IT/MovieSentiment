@@ -45,13 +45,13 @@ python MovieSentiment.py
 
 ## 🎥 Demo
 
-👉 [(https://drive.google.com/drive/folders/1O0IlWswzwZEs7zwZ6n2CLV5Y7P246t8H?usp=sharing)]
+👉 (https://drive.google.com/drive/folders/1O0IlWswzwZEs7zwZ6n2CLV5Y7P246t8H?usp=sharing)
 
 ---
 
 ## 📄 Report
 
-👉 [(https://drive.google.com/drive/folders/1PAYCuiCM5wpYbxId5o4aTNdQEt9QUDPh?usp=sharing)]
+👉 (https://drive.google.com/drive/folders/1PAYCuiCM5wpYbxId5o4aTNdQEt9QUDPh?usp=sharing)
 
 ---
 
